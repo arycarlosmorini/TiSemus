@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+img#img {
+    weight: 20px;
+    width: 30px;
+    margin-top: -560px;
+    margin-left: 285px;
+    margin-bottom: -20px;
+}
